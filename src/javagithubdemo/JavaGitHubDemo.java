@@ -14,7 +14,13 @@ public class JavaGitHubDemo {
    //psvm
     public static void main(String[] args) {
         // sout
-        System.out.println("Hello, World!");
+        printname();
     }
+ 
     
+   
+
+    private static void printname() {
+        System.out.println("Linus Torvalds"); //To change body of generated methods, choose Tools | Templates.
+    }
 }
